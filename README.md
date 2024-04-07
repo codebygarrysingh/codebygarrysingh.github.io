@@ -1,4 +1,4 @@
-I am currently pursuing a [MSC in Computer Engineering](https://www.ox.ac.uk/admissions/graduate/courses/msc-software-engineering) at the University of Oxford, UK. I have served in pivotal roles as a Software Engineering Lead, Senior Data Engineer & Enterprise Data Integration Consultant with major North American banks, renowned retail giants Albertsons and Government organizations. Here are few stars on my shoulder:
+I have served in pivotal roles as a Software Engineering Lead, Senior Data Engineer & Enterprise Data Integration Consultant with major North American banks, renowned retail giants Albertsons and Government organizations. Here are few stars on my shoulder:
 
 - [Microsoft Applied AI Engineering Practitioner on Azure Cloud](https://learn.microsoft.com/api/credentials/share/en-us/GurpartapSingh-5490/69A18CDE02E48F54?sharingId=A4A35DC5E5B5F9F6)
 - [specializations in Machine Learning](https://www.coursera.org/account/accomplishments/certificate/) from Stanford University
